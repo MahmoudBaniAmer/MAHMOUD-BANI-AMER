@@ -4,9 +4,6 @@
 
 </div>
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=800&color=00B4D8&center=true&vCenter=true&multiline=false&width=520&lines=👋+Hi%2C+I'm+Mahmoud+Bani+Amer;💻+Computer+Engineer+%40+JUST;🌐+Full-Stack+Web+Developer;🤖+AI+%26+Computer+Vision+Enthusiast;🔧+Building+things+that+matter" alt="Typing SVG" />
-</div>
 
 <br/>
 
@@ -34,7 +31,6 @@ Name     : Mahmoud Bani Amer
 Role     : Computer Engineering Student & Full-Stack Developer
 University: Jordan University of Science and Technology (JUST)
 Graduation: 2026
-Location : Irbid, Jordan 🇯🇴
 
 Focus:
   - Full-Stack Web Development (HTML · CSS · JS · Flask)
