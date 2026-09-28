@@ -1,18 +1,18 @@
 <h1 align="center">Hi 👋, I'm Mahmoud Bani Amer</h1>
-<h3 align="center">Computer Engineer | Software & Networking Enthusiast 🎓</h3>
+<h3 align="center">Computer Engineer | Full-Stack Developer 💻</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00B4D8&center=true&vcenter=true&width=500&lines=Computer+Engineering+Graduate;JUST+Alumnus;Passionate+Developer+%26+Networker" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00B4D8&center=true&vcenter=true&width=500&lines=Computer+Engineer;Full-Stack+Developer;Software+%26+Networking+Enthusiast" alt="Typing SVG" />
 </p>
 
 ---
 
 ### 🚀 About Me
 
-- 🎓 Graduated with a **B.Sc. in Computer Engineering** from **Jordan University of Science and Technology (JUST)**.
-- 🔭 **Focus Areas**: Computer Networks, Digital Systems, and Full-Stack Software Development.
-- 🧪 **Hands-on Experience**: Cisco Packet Tracer, VS Code, Git, and Modern Web Tech.
-- ♟️ **Passions**: Strategic Problem Solving, Chess, and Exploring New Technologies.
+- 💻 **Profession**: Computer Engineer & Full-Stack Developer.
+- 🔭 **Focus Areas**: Full-Stack Web Development, Computer Networks, and Digital Systems.
+- 🧪 **Tools & Tech**: React, Node.js, JavaScript, Python, C++, Cisco Packet Tracer, Git.
+- ♟️ **Passions**: Problem Solving, Strategic Games (Chess), and Building Scalable Applications.
 
 ---
 
