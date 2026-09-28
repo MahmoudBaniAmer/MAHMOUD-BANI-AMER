@@ -70,6 +70,10 @@ Interests:
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
+### AI & Data
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+
 ### Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
@@ -129,14 +133,16 @@ Interests:
 
 ---
 
-## 🎯 Current Goals
+## 🎯 Current Goals & Learning Path
 
 ```
-✅  Complete AdVision AI Senior Project
-📚  Learn React.js & Node.js (Full-Stack upgrade)
-🌐  Deploy 3+ personal projects publicly on GitHub
-🏆  Land a software engineering internship
-🤖  Dive deeper into Machine Learning & AI
+✅  Complete AdVision AI Senior Project (2026)
+🔨  MERN Stack — MongoDB · Express.js · React · Node.js
+⚛️  React.js — Components, Hooks, State Management
+🟢  Node.js + Express.js — REST APIs & Server-Side Logic
+🍃  MongoDB — NoSQL Database Design
+🌐  Deploy 3+ projects publicly on GitHub
+🏆  Land a Software Engineering Internship
 ```
 
 ---
