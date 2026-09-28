@@ -2,6 +2,9 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Mahmoud%20Bani%20Amer&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Computer%20Engineer%20%7C%20Full-Stack%20Developer&descAlignY=55&descSize=18" width="100%"/>
 </div>
 
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=800&color=00B4D8&center=true&vCenter=true&multiline=false&width=520&lines=👋+Hi%2C+I'm+Mahmoud+Bani+Amer;💻+Computer+Engineer+%40+JUST;🌐+Full-Stack+Web+Developer;🤖+AI+%26+Computer+Vision+Enthusiast;🔧+Building+things+that+matter" alt="Typing SVG" />
+</div>
 
 <br/>
 
@@ -15,6 +18,8 @@
   <a href="https://github.com/MahmoudBaniAmer">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
+  <img src="https://komarev.com/ghpvc/?username=MahmoudBaniAmer&color=00b4d8&style=for-the-badge&label=Profile+Views"/>
+</div>
 
 <br/>
 
@@ -54,6 +59,7 @@
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/flask-%23000000.svg?style=for-the-badge&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white" />
   <img src="https://img.shields.io/badge/cisco-%23049FD9.svg?style=for-the-badge&logo=cisco&logoColor=white" />
   <img src="https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
